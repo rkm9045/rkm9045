@@ -1,5 +1,4 @@
-I'll write all my texts in English and Brazilian Portuguese.
-Sooooo... here we go:
+
 
 - 👋 Hi, I’m @rkm9045. 
 - 👀 I’m interested in AIoT, IoT and AI. M5Stack, Seeed Studio XIAO platform( they are awesome!), Esp32 and Arduino.
