@@ -8,14 +8,16 @@ Sooooo... here we go:
 - 📫 How to reach me: drop me a note at rkm35791 [at] gmail [dot] com.
 - ⚡ Fun fact: A lot. So many that I won`t mention :)
 
+Currently developing some projects with M5Stack and Seeed Studio XIAO series. Using LLM with them? Maybe ;)
+
 --- Em Português agora, porque essa língua é simplesmente linda!   ---
 - 👋 Olá. Sou @rkm9045.
-- 👀 Tenho interesse em AIoT, IoT and AI. São assuntos que estudo há anos, sempre com a mão na massa, ou seja, aprendendo e praticando. Se não quebrar nada, não tem graça.
+- 👀 Tenho interesse em AIoT, IoT e IA. São assuntos que estudo há anos, sempre com a mão na massa, ou seja, aprendendo e praticando. Se não quebrar nada, não tem graça.
 - 🌱 Neste momento (na verdade, há uns bons anos (10+)) pesquiso sobre Edge AI, plataformas híbridas de nuvem e IA, de forma geral. E tudo isso com dados, naturalmente! 
 - 💞️ Busco colaborar com qualquer projeto que ajude a melhorar a vida das pessoas. Acredito fortemente que devemos usar a tecnologia para o bem.
 - 📫 Como me encontrar: rkm35791 [arroba] gmail [ponto] com.
 
-Currently documenting some projects with M5Stack and Seeed Studio XIAO series. Using LLM with them? Maybe :)
+Atualmente desenvolvendo alguns projetos com M5Stack e Seeed Studio XIAO. Integrando com LLM? Talvez ;)
 
 
 <!---
